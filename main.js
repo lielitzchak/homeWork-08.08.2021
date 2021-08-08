@@ -1,3 +1,11 @@
+// 1תרגיל אתגר  ...........................................................................................................
+var Length = +prompt("put a Length");
+var width = +prompt("put a width");
+Math.random()
+
+
+
+
 // תרגיל 1
 
 // var lielsName = ("liel");
@@ -180,11 +188,11 @@
 // function NoRepeat(numbrA) {
 //     for (var i = 0; i < numbrA.length; i++) {
 //         for (var j = i + 1; j < numbrA.length; j++) {
-//             if (numbrA[j] == numbrA[i]) {
+//             while (numbrA[j] == numbrA[i]) {
 //                 numbrA.splice(j, 1);
 //             }
 //         }
 //     } return numbrA;
 
 // }
-// console.log(NoRepeat([1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6]));
+// console.log(NoRepeat([1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6,5,5,5,5,5,5]));
